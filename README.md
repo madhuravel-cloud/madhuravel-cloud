@@ -54,10 +54,6 @@ Graph-based system for analyzing relationships across FIR data.
 ### 🖼️ CNN Image Classification
 Deep learning project using TensorFlow/Keras and CNNs.
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhuravel-cloud&show_icons=true&theme=dark" />
-</p>
 
 ## 💻 Coding Profiles
 
